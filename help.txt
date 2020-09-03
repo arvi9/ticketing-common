@@ -2,4 +2,4 @@ Fallow the below steps to build and publish code to github
 1. Delete the old compile ts files --> del build
 2. Compile Type Script --> tsc
 3. npm run gitcommit
-2. npm run 
+2. npm run pub
