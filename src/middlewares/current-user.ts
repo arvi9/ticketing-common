@@ -24,7 +24,6 @@ export const currentUser = (
   }
 
   try {
-    //Extract the Payload From JWT
     const payload = jwt.verify(
       req.session.jwt,
       process.env.JWT_KEY!
