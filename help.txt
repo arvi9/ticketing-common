@@ -1,4 +1,4 @@
-Fallow the below steps to build and publish code to github
+Fallow the below steps to build and publish code to github and npmjs.com
 1. Delete the old compile ts files --> del build
 2. Compile Type Script --> tsc
 3. npm run gitcommit
